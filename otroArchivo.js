@@ -1,1 +1,2 @@
 let casa ;
+let compu;
